@@ -5,7 +5,8 @@ Integrantes: Valentina Feijoo(valenfei05), Cesar Zuluaga(zulu27), Isabella Erazo
 ## Paso a Paso:
 ### 1. Crear un repositorio en github.
 ### 2. Clonar el repositorio.
-![Captura de pantalla (34)](https://github.com/zulu27/Parcial-herramientas/assets/147516780/d74f607b-7b28-4d1a-9338-569e177a1114)
+![Captura de pantalla (34)](https://github.com/zulu27/Parcial-herramientas/assets/147516780/ba254862-d2e4-4a94-b6e1-530898df5322)
+
  
 ## Operaciones
 
