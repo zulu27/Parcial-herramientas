@@ -1,9 +1,9 @@
-def codigo_ascii():
+def get_ascii():
     palabra = input()
     valor = ord(i)
          return valor
 
 def main():
-        codigo_ascii()
+        get_ascii()
 
 main()
