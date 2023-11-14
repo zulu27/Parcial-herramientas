@@ -1,5 +1,10 @@
 # Parcial-herramientas
 
+Integrantes: Valentina Feijoo(valenfei05), Cesar Zuluaga(zulu27), Isabella Erazo(bellasiv).
+
+## Paso a Paso:
+
+
 ## Operaciones
 
 ### get_ascii:
