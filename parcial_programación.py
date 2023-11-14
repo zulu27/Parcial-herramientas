@@ -1,4 +1,4 @@
-def get_results(palabra):
+def get_results(word):
     resultado_concatenado = 'Results\n=======\n'
     for char in palabra:
         valor_ascii = get_ascii(char)
