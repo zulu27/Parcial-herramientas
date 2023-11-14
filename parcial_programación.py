@@ -9,9 +9,19 @@ if menu > 2 or menu < 0:
 
 if (menu==1):
     char=input('Enter a character:')
+    lenchar = len(char)
+    while lenchar > 1:
+        print("da un solo caracter")
+        char = input("enter a character: ")
+        lenchar = len(char)
     word=char
 elif (menu==2):
     word=input('Enter a word:')
+    lenword = len(word)
+    while lenword = 1:
+        print("de una solo palabra")
+        word = input("enter a word: ")
+        lenword = len(word)
 else:
     sys.exit()
 
