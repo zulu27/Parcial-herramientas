@@ -3,7 +3,9 @@
 Integrantes: Valentina Feijoo(valenfei05), Cesar Zuluaga(zulu27), Isabella Erazo(bellasiv).
 
 ## Paso a Paso:
-
+### 1. Crear un repositorio en github.
+### 2. Clonar el repositorio.
+![Captura de pantalla (34)](https://github.com/zulu27/Parcial-herramientas/assets/147516780/d74f607b-7b28-4d1a-9338-569e177a1114)
 
 ## Operaciones
 
@@ -37,6 +39,23 @@ print(f'El resultado binario para "{caracter}" es: {resultado_binario}')
 
 ---
 ### get_results:
+-Este código define una función llamada get_results que toma una palabra como entrada y realiza las siguientes operaciones para cada carácter en la palabra:
 
+1.Obtiene la representación binaria del carácter utilizando la función get_binary.
+2.Obtiene el valor ASCII del carácter utilizando la función get_ascii.
+3.Imprime el valor ASCII y la representación binaria del carácter.
+4.Agrega la representación binaria del carácter a una lista llamada lista_codigos.
+5.Finalmente, imprime la lista de códigos binarios concatenados y separados por espacios, así como el total de la lista.
+
+`# ejemplo de uso
+word = "Hello"
+get_results(word)
+Ascii character value for H  is 72 . Binary representation of H  in a Byte is 01001000
+Ascii character value for e  is 101 . Binary representation of e  in a Byte is 01100101
+Ascii character value for l  is 108 . Binary representation of l  in a Byte is 01101100
+Ascii character value for l  is 108 . Binary representation of l  in a Byte is 01101100
+Ascii character value for o  is 111 . Binary representation of o  in a Byte is 01101111
+Total: 01001000 01100101 01101100 01101100 01101111 
+`
 
 ---
