@@ -16,12 +16,15 @@ def get_binary(char):
   
  
 def get_results(word):
-        resultado_concatenado = 'Results\n=======\n'
-        for char in word:
-            valor_ascii = get_ascii(char)
-            binario = get_binary(char)
-            resultado_concatenado += f'ASCII character value of "{char}" is {valor_ascii}. Binary representation of "{char}" in a Byte is {binario}\n'
-        return resultado_concatenado
+    lista_codigos = ""
+    for char in word:
+        
+        binario = get_binary(char)
+        codigo = get_ascii(char)
+        print ("Ascii character value for ", char, " is" ,codigo,". Binary representation of ",char," in a Byte is",binario)
+        lista_codigos += binario
+        lista_codigos += " "
+    print("Total:",lista_codigos)
 
 menu=int(input('Menu\n=====\n1. Character\n2. Word'))
 if menu > 2 or menu < 0:
@@ -49,5 +52,5 @@ elif menu==2:
 else:
     sys.exit()
 
-results= get_results(word)
 print('Total: {0}.format(results)')
+=======
