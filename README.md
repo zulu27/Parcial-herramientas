@@ -58,8 +58,11 @@ print(f'El resultado binario para "{caracter}" es: {resultado_binario}')
 
 1.Obtiene la representación binaria del carácter utilizando la función get_binary.
 2.Obtiene el valor ASCII del carácter utilizando la función get_ascii.
+
 3.Imprime el valor ASCII y la representación binaria del carácter.
+
 4.Agrega la representación binaria del carácter a una lista llamada lista_codigos.
+
 5.Finalmente, imprime la lista de códigos binarios concatenados y separados por espacios, así como el total de la lista.
 
 `# ejemplo de uso
@@ -76,8 +79,10 @@ Total: 01001000 01100101 01101100 01101100 01101111
 -Se hicieron 4 pull request para actualizar el repositorio main, en las cuales se tuvo que hacer lo siguiente:
 
 1.Acomodar las lineas de codigo para evitar los conflictos
+
 2.Asegurarse de que funcionara de manera correcta el codigo
+
 3.Confirmar que se sube el codigo de forma adecuada
 
--se realizo 1 pull request para cambiar una función pues se subio la que no era, la función era get_results() pues estaba el codigo escrito de forma erronea
+#-Se realizo 1 pull request para cambiar una función pues se subio la que no era, la función era get_results() pues estaba el codigo escrito de forma erronea
 ---
