@@ -5,7 +5,21 @@ Integrantes: Valentina Feijoo(valenfei05), Cesar Zuluaga(zulu27), Isabella Erazo
 ## Paso a Paso:
 ### 1. Crear un repositorio en github.
 ### 2. Clonar el repositorio.
+Este comando se utiliza para obtener una copia completa de un repositorio, incluyendo su historial de versiones y todos los archivos de trabajo. La sintaxis básica del comando es la siguiente:
+`git clone <URL_del_repositorio>`
+
 ![Captura de pantalla (34)](https://github.com/zulu27/Parcial-herramientas/assets/147516780/ba254862-d2e4-4a94-b6e1-530898df5322)
+
+### 3.Crear el código de cada función.
+![Captura de pantalla 2023-11-14 171522](https://github.com/zulu27/Parcial-herramientas/assets/147516780/40e8fdeb-460f-4eaf-9d53-a00cc480500c)
+
+![Captura de pantalla 2023-11-14 174508](https://github.com/zulu27/Parcial-herramientas/assets/147516780/7f27b83f-479e-4b29-a6d1-bd692c5cd0f9)
+
+![Captura de pantalla 2023-11-14 174559](https://github.com/zulu27/Parcial-herramientas/assets/147516780/085d8dac-8612-423b-b20b-d9c09a3a8741)
+
+### 4. Subir cada archivo al repositorio de github.
+
+### 5. Crear el archivo de Menu.
 
  
 ## Operaciones
