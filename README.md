@@ -72,5 +72,12 @@ Ascii character value for l  is 108 . Binary representation of l  in a Byte is 0
 Ascii character value for o  is 111 . Binary representation of o  in a Byte is 01101111
 Total: 01001000 01100101 01101100 01101100 01101111 
 `
+### Pull request:
+-Se hicieron 4 pull request para actualizar el repositorio main, en las cuales se tuvo que hacer lo siguiente:
 
+1.Acomodar las lineas de codigo para evitar los conflictos
+2.Asegurarse de que funcionara de manera correcta el codigo
+3.Confirmar que se sube el codigo de forma adecuada
+
+-se realizo 1 pull request para cambiar una función pues se subio la que no era, la función era get_results() pues estaba el codigo escrito de forma erronea
 ---
