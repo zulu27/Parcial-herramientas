@@ -15,6 +15,7 @@ if (menu==1):
         char = input("enter a character: ")
         lenchar = len(char)
     word=char
+    get_result(word)
 elif (menu==2):
     word=input('Enter a word:')
     lenword = len(word)
@@ -22,10 +23,9 @@ elif (menu==2):
         print("de una solo palabra")
         word = input("enter a word: ")
         lenword = len(word)
+    get_result(word)
 else:
     sys.exit()
-
-print('Results\n=========')
 
 results= get_results(word)
 print('Total: {0}.format(results)')
