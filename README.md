@@ -57,6 +57,7 @@ print(f'El resultado binario para "{caracter}" es: {resultado_binario}')
 -Este código define una función llamada get_results que toma una palabra como entrada y realiza las siguientes operaciones para cada carácter en la palabra:
 
 1.Obtiene la representación binaria del carácter utilizando la función get_binary.
+
 2.Obtiene el valor ASCII del carácter utilizando la función get_ascii.
 
 3.Imprime el valor ASCII y la representación binaria del carácter.
@@ -84,5 +85,6 @@ Total: 01001000 01100101 01101100 01101100 01101111
 
 3.Confirmar que se sube el codigo de forma adecuada
 
-#-Se realizo 1 pull request para cambiar una función pues se subio la que no era, la función era get_results() pues estaba el codigo escrito de forma erronea
+-Se realizo 1 pull request para cambiar una función pues se subio la que no era, la función era get_results() pues estaba el codigo escrito de forma erronea
+
 ---
