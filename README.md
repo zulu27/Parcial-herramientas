@@ -21,7 +21,34 @@ Este comando se utiliza para obtener una copia completa de un repositorio, inclu
 
 ### 5. Crear el archivo de Menu.
 
- 
+![Captura de pantalla 2023-11-14 174922](https://github.com/zulu27/Parcial-herramientas/assets/147516780/b949ffa5-7514-436e-b43f-e7ccc2d42537)
+
+![Captura de pantalla 2023-11-14 174930](https://github.com/zulu27/Parcial-herramientas/assets/147516780/688f4bc1-bbd6-46de-87ea-4a176cddf288)
+
+
+### 6. Crear el archivo gitignore.
+-El archivo .gitignore es un archivo de configuración que se usa para especificar archivos y directorios que Git debería ignorar. Esto significa que los archivos y directorios enlistados en .gitignore no se incluirán en el control de versiones de Git.
+
+El comando que utilizamos fue:
+
+`touch .gitignore`
+
+Y posteriormente añadimos los tipos de archivo que queremos ignorar.
+
+### 7. Fusionar las ramas con la main.
+
+### 8. Generar pull-request.
+-Se hicieron 4 pull request para actualizar el repositorio main, en las cuales se tuvo que hacer lo siguiente:
+
+1.Acomodar las lineas de codigo para evitar los conflictos
+
+2.Asegurarse de que funcionara de manera correcta el codigo
+
+3.Confirmar que se sube el codigo de forma adecuada
+
+-Se realizo 1 pull request para cambiar una función pues se subio la que no era, la función era get_results() pues estaba el codigo escrito de forma erronea
+
+
 ## Operaciones
 
 ### get_ascii:
@@ -76,15 +103,4 @@ Ascii character value for l  is 108 . Binary representation of l  in a Byte is 0
 Ascii character value for o  is 111 . Binary representation of o  in a Byte is 01101111
 Total: 01001000 01100101 01101100 01101100 01101111 
 `
-### Pull request:
--Se hicieron 4 pull request para actualizar el repositorio main, en las cuales se tuvo que hacer lo siguiente:
 
-1.Acomodar las lineas de codigo para evitar los conflictos
-
-2.Asegurarse de que funcionara de manera correcta el codigo
-
-3.Confirmar que se sube el codigo de forma adecuada
-
--Se realizo 1 pull request para cambiar una función pues se subio la que no era, la función era get_results() pues estaba el codigo escrito de forma erronea
-
----
