@@ -1,9 +1,4 @@
-def get_ascii():
-    palabra = input()
-    valor = ord(i)
+def get_ascii(text):
+    valor = ord(text)
          return valor
 
-def main():
-        get_ascii()
-
-main()
