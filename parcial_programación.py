@@ -1,4 +1,4 @@
-from operations import get_ascii, get_binary, get_resuts
+from parcial_programación import get_ascii, get_binary, get_resuts
 import sys
 
 menu=int(input('Menu\n=====\n1. Character\n2. Word'))
