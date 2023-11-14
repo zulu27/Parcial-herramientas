@@ -1,4 +1,4 @@
-def get_ascii(word):
-    valor = ord(word)
+def get_ascii(char):
+    valor = ord(char)
          return valor
 
