@@ -1,3 +1,8 @@
+  
+def get_ascii(char):
+    valor = ord(char)
+         return valor
+    
 def get_binary(char):
     binary_result = ""
     for i in char:
@@ -5,3 +10,4 @@ def get_binary(char):
         binary_value = bin(ascii_value)[2:]  
         binary_result += binary_value.zfill(8)  
     return binary_result
+
